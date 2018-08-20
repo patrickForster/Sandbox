@@ -1,3 +1,4 @@
+# password checker
 MIN_LENGTH = 4
 print("Please enter a valid password")
 print("Your password must be at least", MIN_LENGTH, "characters long")
